@@ -16,7 +16,7 @@ public class BirthdayReminder {
 		String myBirthday = "April 16th";
 
 		// 2. Find out which birthday the user wants and and store their response in a variable
-	
+	hello
 		// 3. Print out what the user typed
 		
 		// 4. if user asked for "mom"
@@ -27,5 +27,5 @@ public class BirthdayReminder {
 			// print myBirthday
 		//7. otherwise print "Sorry, i don't remember that person's birthday!"
 
-	} 
+	}
 }
